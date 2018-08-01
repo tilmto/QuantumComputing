@@ -1,0 +1,4534 @@
+Circuit name: 0410184_169.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 211
+  depth: 104
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 951
+  depth: 477
+
+The mapping required 0.008226 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q10
+  q1 is initially mapped to Q11
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q5
+  q8 is initially mapped to Q4
+  q9 is initially mapped to Q7
+  q10 is initially mapped to Q6
+  q11 is initially mapped to Q8
+  q12 is initially mapped to Q9
+  q13 is initially mapped to Q12
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 3_17_13.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 36
+  depth: 22
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 110
+  depth: 68
+
+The mapping required 9.8e-05 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q-1
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4_49_16.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 217
+  depth: 125
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 718
+  depth: 434
+
+The mapping required 0.001363 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt10-v1_81.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 148
+  depth: 84
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 475
+  depth: 283
+
+The mapping required 0.000693 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt11_82.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 27
+  depth: 20
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 121
+  depth: 70
+
+The mapping required 0.00019 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt11_83.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 23
+  depth: 16
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 89
+  depth: 52
+
+The mapping required 0.000159 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt11_84.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 18
+  depth: 11
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 51
+  depth: 30
+
+The mapping required 6.3e-05 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q-1
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt12-v0_86.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 251
+  depth: 135
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 874
+  depth: 492
+
+The mapping required 0.001581 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt12-v0_87.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 247
+  depth: 131
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 841
+  depth: 469
+
+The mapping required 0.001248 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt12-v0_88.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 194
+  depth: 108
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 713
+  depth: 422
+
+The mapping required 0.002426 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q4
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt12-v1_89.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 228
+  depth: 130
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 735
+  depth: 444
+
+The mapping required 0.000653 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt13-v1_93.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 68
+  depth: 39
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 233
+  depth: 140
+
+The mapping required 0.000213 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt13_90.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 107
+  depth: 65
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 402
+  depth: 228
+
+The mapping required 0.000695 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt13_91.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 103
+  depth: 61
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 373
+  depth: 212
+
+The mapping required 0.00043 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt13_92.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 66
+  depth: 38
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 220
+  depth: 132
+
+The mapping required 0.000325 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt4-v0_72.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 258
+  depth: 137
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 854
+  depth: 486
+
+The mapping required 0.001757 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt4-v0_73.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 395
+  depth: 227
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1342
+  depth: 799
+
+The mapping required 0.002684 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt4-v0_78.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 235
+  depth: 137
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 827
+  depth: 496
+
+The mapping required 0.000717 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt4-v0_79.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 231
+  depth: 132
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 787
+  depth: 471
+
+The mapping required 0.001069 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt4-v0_80.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 179
+  depth: 101
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 653
+  depth: 383
+
+The mapping required 0.001888 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt4-v1_74.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 273
+  depth: 154
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 905
+  depth: 541
+
+The mapping required 0.001119 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt5_75.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 83
+  depth: 47
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 291
+  depth: 169
+
+The mapping required 0.000523 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt5_76.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 91
+  depth: 56
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 343
+  depth: 192
+
+The mapping required 0.000552 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4gt5_77.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 131
+  depth: 74
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 440
+  depth: 266
+
+The mapping required 0.000792 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-bdd_287.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 70
+  depth: 41
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 253
+  depth: 142
+
+The mapping required 0.000383 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-v0_18.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 69
+  depth: 40
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 222
+  depth: 137
+
+The mapping required 0.000203 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-v0_19.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 35
+  depth: 21
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 119
+  depth: 72
+
+The mapping required 0.000121 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-v0_20.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 20
+  depth: 12
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 60
+  depth: 38
+
+The mapping required 0.000127 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-v1_22.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 21
+  depth: 12
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 68
+  depth: 43
+
+The mapping required 0.000148 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-v1_23.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 69
+  depth: 41
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 220
+  depth: 136
+
+The mapping required 0.000389 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q14
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod5-v1_24.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 36
+  depth: 21
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 113
+  depth: 70
+
+The mapping required 0.000194 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod7-v0_94.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 162
+  depth: 92
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 510
+  depth: 306
+
+The mapping required 0.000804 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 4mod7-v1_96.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 164
+  depth: 94
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 523
+  depth: 317
+
+The mapping required 0.000678 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: 9symml_195.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 34881
+  depth: 19235
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 131271
+  depth: 71568
+
+The mapping required 6.87746 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q5
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q7
+  q6 is initially mapped to Q1
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: C17_204.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 467
+  depth: 253
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1623
+  depth: 919
+
+The mapping required 0.003706 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q0
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: adr4_197.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 3439
+  depth: 1839
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 12667
+  depth: 6650
+
+The mapping required 0.083772 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q10
+  q1 is initially mapped to Q11
+  q2 is initially mapped to Q12
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q6
+  q6 is initially mapped to Q1
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q4
+  q9 is initially mapped to Q13
+  q10 is initially mapped to Q3
+  q11 is initially mapped to Q5
+  q12 is initially mapped to Q0
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: aj-e11_165.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 151
+  depth: 86
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 474
+  depth: 275
+
+The mapping required 0.00033 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-bdd_288.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 84
+  depth: 48
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 298
+  depth: 162
+
+The mapping required 0.000251 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q5
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q4
+  q4 is initially mapped to Q13
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q3
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v0_26.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 84
+  depth: 49
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 279
+  depth: 170
+
+The mapping required 0.000585 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v0_27.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 36
+  depth: 21
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 133
+  depth: 73
+
+The mapping required 0.000366 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v1_28.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 37
+  depth: 22
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 134
+  depth: 75
+
+The mapping required 0.000334 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v1_29.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 37
+  depth: 22
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 134
+  depth: 74
+
+The mapping required 0.000367 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v2_30.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 504
+  depth: 285
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1771
+  depth: 1036
+
+The mapping required 0.002928 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v2_31.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 451
+  depth: 255
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1538
+  depth: 925
+
+The mapping required 0.00297 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v2_32.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 163
+  depth: 92
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 536
+  depth: 312
+
+The mapping required 0.000762 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v2_33.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 37
+  depth: 22
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 109
+  depth: 67
+
+The mapping required 0.000135 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v3_34.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 52
+  depth: 30
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 164
+  depth: 97
+
+The mapping required 0.000167 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v3_35.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 37
+  depth: 22
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 134
+  depth: 74
+
+The mapping required 0.000369 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v4_36.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 115
+  depth: 66
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 361
+  depth: 218
+
+The mapping required 0.000357 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: alu-v4_37.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 37
+  depth: 22
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 134
+  depth: 74
+
+The mapping required 0.00034 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: clip_206.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 33827
+  depth: 17879
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 130216
+  depth: 67545
+
+The mapping required 38.0082 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q9
+  q3 is initially mapped to Q6
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q11
+  q6 is initially mapped to Q5
+  q7 is initially mapped to Q10
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q7
+  q11 is initially mapped to Q8
+  q12 is initially mapped to Q15
+  q13 is initially mapped to Q0
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: cm152a_212.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1221
+  depth: 684
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 4352
+  depth: 2513
+
+The mapping required 0.023812 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q4
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q11
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q6
+  q8 is initially mapped to Q12
+  q9 is initially mapped to Q14
+  q10 is initially mapped to Q2
+  q11 is initially mapped to Q0
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: cm42a_207.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1776
+  depth: 940
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 6274
+  depth: 3385
+
+The mapping required 0.023277 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q10
+  q1 is initially mapped to Q7
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q12
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q11
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q14
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q15
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q3
+  q12 is initially mapped to Q4
+  q13 is initially mapped to Q5
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: cm82a_208.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 650
+  depth: 337
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 2235
+  depth: 1216
+
+The mapping required 0.016693 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q4
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: cm85a_209.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 11414
+  depth: 6374
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 43248
+  depth: 23962
+
+The mapping required 1.01058 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q10
+  q6 is initially mapped to Q3
+  q7 is initially mapped to Q5
+  q8 is initially mapped to Q11
+  q9 is initially mapped to Q6
+  q10 is initially mapped to Q4
+  q11 is initially mapped to Q2
+  q12 is initially mapped to Q7
+  q13 is initially mapped to Q0
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: cnt3-5_179.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 175
+  depth: 61
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 665
+  depth: 258
+
+The mapping required 0.010962 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q9
+  q1 is initially mapped to Q12
+  q2 is initially mapped to Q8
+  q3 is initially mapped to Q6
+  q4 is initially mapped to Q13
+  q5 is initially mapped to Q7
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q15
+  q8 is initially mapped to Q5
+  q9 is initially mapped to Q2
+  q10 is initially mapped to Q14
+  q11 is initially mapped to Q3
+  q12 is initially mapped to Q0
+  q13 is initially mapped to Q11
+  q14 is initially mapped to Q10
+  q15 is initially mapped to Q1
+Circuit name: cnt3-5_180.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 485
+  depth: 209
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1617
+  depth: 735
+
+The mapping required 0.096746 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q9
+  q1 is initially mapped to Q7
+  q2 is initially mapped to Q8
+  q3 is initially mapped to Q10
+  q4 is initially mapped to Q11
+  q5 is initially mapped to Q6
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q5
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q13
+  q11 is initially mapped to Q14
+  q12 is initially mapped to Q3
+  q13 is initially mapped to Q1
+  q14 is initially mapped to Q0
+  q15 is initially mapped to Q15
+Circuit name: co14_215.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 17936
+  depth: 8570
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 73734
+  depth: 34204
+
+The mapping required 150.28 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q11
+  q2 is initially mapped to Q10
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q4
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q0
+  q8 is initially mapped to Q1
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q5
+  q11 is initially mapped to Q7
+  q12 is initially mapped to Q9
+  q13 is initially mapped to Q8
+  q14 is initially mapped to Q15
+  q15 is initially mapped to Q-1
+Circuit name: con1_216.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 954
+  depth: 508
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 3405
+  depth: 1862
+
+The mapping required 0.016093 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q5
+  q8 is initially mapped to Q0
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: cycle10_2_110.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 6050
+  depth: 3386
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 22474
+  depth: 12581
+
+The mapping required 6.32983 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q5
+  q2 is initially mapped to Q4
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q7
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q12
+  q8 is initially mapped to Q14
+  q9 is initially mapped to Q13
+  q10 is initially mapped to Q2
+  q11 is initially mapped to Q0
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: dc1_220.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1914
+  depth: 1038
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 6814
+  depth: 3728
+
+The mapping required 0.031085 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q13
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q11
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q0
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q5
+  q8 is initially mapped to Q1
+  q9 is initially mapped to Q2
+  q10 is initially mapped to Q3
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: dc2_222.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 9462
+  depth: 5242
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 35153
+  depth: 19065
+
+The mapping required 18.1877 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q8
+  q2 is initially mapped to Q11
+  q3 is initially mapped to Q12
+  q4 is initially mapped to Q13
+  q5 is initially mapped to Q9
+  q6 is initially mapped to Q14
+  q7 is initially mapped to Q0
+  q8 is initially mapped to Q10
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q2
+  q11 is initially mapped to Q3
+  q12 is initially mapped to Q5
+  q13 is initially mapped to Q6
+  q14 is initially mapped to Q7
+  q15 is initially mapped to Q-1
+Circuit name: decod24-bdd_294.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 73
+  depth: 40
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 226
+  depth: 129
+
+The mapping required 0.000388 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: decod24-enable_126.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 338
+  depth: 190
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1160
+  depth: 691
+
+The mapping required 0.002158 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: decod24-v0_38.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 51
+  depth: 30
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 166
+  depth: 101
+
+The mapping required 0.000333 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: decod24-v1_41.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 85
+  depth: 50
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 306
+  depth: 161
+
+The mapping required 0.00071 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: decod24-v2_43.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 52
+  depth: 30
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 158
+  depth: 98
+
+The mapping required 0.000293 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q14
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: decod24-v3_45.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 150
+  depth: 84
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 540
+  depth: 293
+
+The mapping required 0.002217 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: dist_223.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 38046
+  depth: 19694
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 143612
+  depth: 74389
+
+The mapping required 115.892 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q11
+  q1 is initially mapped to Q13
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q10
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q5
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q14
+  q11 is initially mapped to Q3
+  q12 is initially mapped to Q0
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ex-1_166.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 19
+  depth: 12
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 52
+  depth: 33
+
+The mapping required 9.4e-05 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q-1
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ex1_226.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 7
+  depth: 5
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 36
+  depth: 21
+
+The mapping required 0.000139 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ex2_227.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 631
+  depth: 355
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 2208
+  depth: 1256
+
+The mapping required 0.016194 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q13
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q0
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ex3_229.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 403
+  depth: 226
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1377
+  depth: 806
+
+The mapping required 0.002785 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: f2_232.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1206
+  depth: 668
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 4095
+  depth: 2298
+
+The mapping required 0.014333 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q14
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: graycode6_47.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 5
+  depth: 5
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 9
+  depth: 7
+
+The mapping required 1.3e-05 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ground_state_estimation_10.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 390180
+  depth: 245614
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 878735
+  depth: 505264
+
+The mapping required 0.824883 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q10
+  q2 is initially mapped to Q6
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q14
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q13
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q5
+  q11 is initially mapped to Q12
+  q12 is initially mapped to Q11
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ham15_107.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 8763
+  depth: 4819
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 31503
+  depth: 17375
+
+The mapping required 0.474 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q9
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q10
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q0
+  q9 is initially mapped to Q11
+  q10 is initially mapped to Q8
+  q11 is initially mapped to Q7
+  q12 is initially mapped to Q5
+  q13 is initially mapped to Q3
+  q14 is initially mapped to Q1
+  q15 is initially mapped to Q-1
+Circuit name: ham3_102.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 20
+  depth: 13
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 60
+  depth: 39
+
+The mapping required 0.00016 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q-1
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ham7_104.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 320
+  depth: 185
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1119
+  depth: 650
+
+The mapping required 0.002345 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: hwb4_49.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 233
+  depth: 134
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 800
+  depth: 474
+
+The mapping required 0.001296 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: hwb5_53.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1336
+  depth: 758
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 4662
+  depth: 2741
+
+The mapping required 0.016502 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q13
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: hwb6_56.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 6723
+  depth: 3736
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 23610
+  depth: 13590
+
+The mapping required 0.059965 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q14
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: hwb7_59.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 24379
+  depth: 13437
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 86276
+  depth: 48568
+
+The mapping required 0.262318 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q4
+  q6 is initially mapped to Q0
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: hwb8_113.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 69380
+  depth: 38717
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 248001
+  depth: 139693
+
+The mapping required 3.27999 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q0
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: hwb9_119.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 207775
+  depth: 116199
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 749975
+  depth: 419161
+
+The mapping required 15.8325 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q12
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q15
+  q8 is initially mapped to Q0
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: inc_237.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 10619
+  depth: 5863
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 38853
+  depth: 21556
+
+The mapping required 0.401008 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q10
+  q1 is initially mapped to Q8
+  q2 is initially mapped to Q9
+  q3 is initially mapped to Q11
+  q4 is initially mapped to Q7
+  q5 is initially mapped to Q13
+  q6 is initially mapped to Q5
+  q7 is initially mapped to Q14
+  q8 is initially mapped to Q4
+  q9 is initially mapped to Q6
+  q10 is initially mapped to Q15
+  q11 is initially mapped to Q0
+  q12 is initially mapped to Q1
+  q13 is initially mapped to Q12
+  q14 is initially mapped to Q2
+  q15 is initially mapped to Q3
+Circuit name: ising_model_10.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 480
+  depth: 70
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 674
+  depth: 112
+
+The mapping required 0.013037 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q7
+  q8 is initially mapped to Q9
+  q9 is initially mapped to Q8
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ising_model_13.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 633
+  depth: 71
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 981
+  depth: 180
+
+The mapping required 0.34218 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q7
+  q8 is initially mapped to Q9
+  q9 is initially mapped to Q8
+  q10 is initially mapped to Q11
+  q11 is initially mapped to Q10
+  q12 is initially mapped to Q12
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: ising_model_16.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 786
+  depth: 71
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1170
+  depth: 162
+
+The mapping required 1.35779 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q7
+  q8 is initially mapped to Q9
+  q9 is initially mapped to Q8
+  q10 is initially mapped to Q11
+  q11 is initially mapped to Q10
+  q12 is initially mapped to Q12
+  q13 is initially mapped to Q13
+  q14 is initially mapped to Q15
+  q15 is initially mapped to Q14
+Circuit name: life_238.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 22445
+  depth: 12511
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 85804
+  depth: 47077
+
+The mapping required 16.1066 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q7
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q9
+  q7 is initially mapped to Q8
+  q8 is initially mapped to Q6
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: majority_239.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 612
+  depth: 344
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 2197
+  depth: 1258
+
+The mapping required 0.015084 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: max46_240.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 27126
+  depth: 14257
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 99398
+  depth: 53021
+
+The mapping required 13.456 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q7
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q13
+  q6 is initially mapped to Q5
+  q7 is initially mapped to Q6
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q0
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: miller_11.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 50
+  depth: 29
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 141
+  depth: 88
+
+The mapping required 0.00033 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q-1
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mini-alu_167.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 288
+  depth: 162
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 988
+  depth: 584
+
+The mapping required 0.002226 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mini_alu_305.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 173
+  depth: 69
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 591
+  depth: 245
+
+The mapping required 0.0105 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q13
+  q9 is initially mapped to Q5
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: misex1_241.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 4813
+  depth: 2676
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 18369
+  depth: 10116
+
+The mapping required 0.051112 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q11
+  q1 is initially mapped to Q12
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q10
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q6
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q9
+  q8 is initially mapped to Q7
+  q9 is initially mapped to Q2
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q1
+  q12 is initially mapped to Q3
+  q13 is initially mapped to Q4
+  q14 is initially mapped to Q5
+  q15 is initially mapped to Q-1
+Circuit name: mlp4_245.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 18852
+  depth: 10328
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 73664
+  depth: 39303
+
+The mapping required 12.2838 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q9
+  q1 is initially mapped to Q8
+  q2 is initially mapped to Q10
+  q3 is initially mapped to Q6
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q7
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q13
+  q12 is initially mapped to Q11
+  q13 is initially mapped to Q2
+  q14 is initially mapped to Q1
+  q15 is initially mapped to Q14
+Circuit name: mod10_171.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 244
+  depth: 139
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 770
+  depth: 468
+
+The mapping required 0.001258 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod10_176.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 178
+  depth: 101
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 585
+  depth: 357
+
+The mapping required 0.001003 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod5adder_127.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 555
+  depth: 302
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1886
+  depth: 1078
+
+The mapping required 0.003149 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod5d1_63.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 22
+  depth: 13
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 99
+  depth: 55
+
+The mapping required 0.000319 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod5d2_64.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 53
+  depth: 32
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 186
+  depth: 115
+
+The mapping required 0.000359 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod5mils_65.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 35
+  depth: 21
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 116
+  depth: 72
+
+The mapping required 0.000192 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q4
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod8-10_177.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 440
+  depth: 251
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1559
+  depth: 918
+
+The mapping required 0.002657 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: mod8-10_178.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 342
+  depth: 193
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1149
+  depth: 665
+
+The mapping required 0.001465 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: one-two-three-v0_97.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 290
+  depth: 163
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1027
+  depth: 606
+
+The mapping required 0.002865 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: one-two-three-v0_98.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 146
+  depth: 82
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 513
+  depth: 301
+
+The mapping required 0.000964 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: one-two-three-v1_99.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 132
+  depth: 76
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 444
+  depth: 260
+
+The mapping required 0.000624 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: one-two-three-v2_100.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 69
+  depth: 40
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 225
+  depth: 136
+
+The mapping required 0.000486 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: one-two-three-v3_101.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 70
+  depth: 40
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 233
+  depth: 138
+
+The mapping required 0.00046 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: plus63mod4096_163.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 128744
+  depth: 72246
+Circuit name: plus63mod8192_164.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 187112
+  depth: 105142
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 723610
+  depth: 393944
+
+The mapping required 113.496 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q7
+  q1 is initially mapped to Q10
+  q2 is initially mapped to Q11
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q1
+  q8 is initially mapped to Q0
+  q9 is initially mapped to Q6
+  q10 is initially mapped to Q12
+  q11 is initially mapped to Q13
+  q12 is initially mapped to Q14
+  q13 is initially mapped to Q2
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: pm1_249.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1776
+  depth: 940
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 6274
+  depth: 3385
+
+The mapping required 0.017311 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q10
+  q1 is initially mapped to Q7
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q12
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q11
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q14
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q15
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q3
+  q12 is initially mapped to Q4
+  q13 is initially mapped to Q5
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: qft_10.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 200
+  depth: 63
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 624
+  depth: 183
+
+The mapping required 0.003893 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q5
+  q9 is initially mapped to Q12
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: qft_16.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 512
+  depth: 105
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1635
+  depth: 341
+
+The mapping required 12.2423 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q5
+  q9 is initially mapped to Q12
+  q10 is initially mapped to Q11
+  q11 is initially mapped to Q10
+  q12 is initially mapped to Q7
+  q13 is initially mapped to Q6
+  q14 is initially mapped to Q8
+  q15 is initially mapped to Q9
+Circuit name: radd_250.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 3213
+  depth: 1781
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 11678
+  depth: 6417
+
+The mapping required 0.21259 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q11
+  q1 is initially mapped to Q14
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q12
+  q4 is initially mapped to Q10
+  q5 is initially mapped to Q6
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q13
+  q8 is initially mapped to Q1
+  q9 is initially mapped to Q5
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q2
+  q12 is initially mapped to Q3
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd32-v0_66.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 34
+  depth: 20
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 107
+  depth: 66
+
+The mapping required 0.000113 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd32-v1_68.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 36
+  depth: 21
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 109
+  depth: 67
+
+The mapping required 0.000113 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q-1
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd32_270.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 84
+  depth: 47
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 295
+  depth: 170
+
+The mapping required 0.000325 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q-1
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_130.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1043
+  depth: 569
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 3582
+  depth: 2018
+
+The mapping required 0.026172 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q13
+  q6 is initially mapped to Q14
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_131.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 469
+  depth: 261
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1578
+  depth: 907
+
+The mapping required 0.336419 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q4
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q0
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_133.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 580
+  depth: 327
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 2020
+  depth: 1194
+
+The mapping required 0.021788 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q5
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q1
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q0
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_135.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 296
+  depth: 159
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1072
+  depth: 569
+
+The mapping required 0.009604 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q5
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_138.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 132
+  depth: 56
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 425
+  depth: 193
+
+The mapping required 0.001935 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q3
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_251.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1291
+  depth: 712
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 4530
+  depth: 2582
+
+The mapping required 0.008379 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q4
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q13
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q0
+  q7 is initially mapped to Q15
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd53_311.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 275
+  depth: 124
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1133
+  depth: 499
+
+The mapping required 0.013586 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q10
+  q2 is initially mapped to Q5
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q1
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q13
+  q9 is initially mapped to Q12
+  q10 is initially mapped to Q6
+  q11 is initially mapped to Q4
+  q12 is initially mapped to Q11
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd73_140.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 230
+  depth: 92
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 760
+  depth: 320
+
+The mapping required 0.004743 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q15
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q2
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd73_252.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 5321
+  depth: 2867
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 19340
+  depth: 10449
+
+The mapping required 0.369212 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q15
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q12
+  q6 is initially mapped to Q0
+  q7 is initially mapped to Q13
+  q8 is initially mapped to Q1
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: rd84_142.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 343
+  depth: 110
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1252
+  depth: 459
+
+The mapping required 0.035866 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q12
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q7
+  q8 is initially mapped to Q15
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q2
+  q11 is initially mapped to Q4
+  q12 is initially mapped to Q11
+  q13 is initially mapped to Q10
+  q14 is initially mapped to Q9
+  q15 is initially mapped to Q-1
+Circuit name: rd84_253.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 13658
+  depth: 7261
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 51095
+  depth: 27008
+
+The mapping required 2.69595 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q6
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q11
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q13
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q15
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: root_255.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 17159
+  depth: 8835
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 65158
+  depth: 33382
+
+The mapping required 23.7809 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q11
+  q1 is initially mapped to Q12
+  q2 is initially mapped to Q13
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q10
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q5
+  q11 is initially mapped to Q0
+  q12 is initially mapped to Q1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sao2_257.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 38577
+  depth: 19563
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 148558
+  depth: 74885
+
+The mapping required 118.99 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q6
+  q3 is initially mapped to Q7
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q12
+  q6 is initially mapped to Q10
+  q7 is initially mapped to Q11
+  q8 is initially mapped to Q15
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q13
+  q11 is initially mapped to Q4
+  q12 is initially mapped to Q5
+  q13 is initially mapped to Q2
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sf_274.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 781
+  depth: 436
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 2620
+  depth: 1571
+
+The mapping required 0.002897 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q0
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sf_276.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 778
+  depth: 435
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 2583
+  depth: 1501
+
+The mapping required 0.003771 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q13
+  q5 is initially mapped to Q4
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sqn_258.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 10223
+  depth: 5458
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 36392
+  depth: 19671
+
+The mapping required 2.95118 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q1
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q0
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sqrt8_260.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 3009
+  depth: 1659
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 11505
+  depth: 6267
+
+The mapping required 1.34512 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q14
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q12
+  q6 is initially mapped to Q11
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q6
+  q9 is initially mapped to Q13
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: squar5_261.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 1993
+  depth: 1049
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 7364
+  depth: 3857
+
+The mapping required 0.021132 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q10
+  q7 is initially mapped to Q13
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q5
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q1
+  q12 is initially mapped to Q11
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: square_root_7.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 7630
+  depth: 3847
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 28417
+  depth: 14769
+
+The mapping required 28.7821 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q3
+  q2 is initially mapped to Q5
+  q3 is initially mapped to Q7
+  q4 is initially mapped to Q8
+  q5 is initially mapped to Q10
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q0
+  q8 is initially mapped to Q9
+  q9 is initially mapped to Q2
+  q10 is initially mapped to Q11
+  q11 is initially mapped to Q4
+  q12 is initially mapped to Q12
+  q13 is initially mapped to Q6
+  q14 is initially mapped to Q14
+  q15 is initially mapped to Q-1
+Circuit name: sym10_262.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 64283
+  depth: 35572
+Circuit name: sym6_145.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 3888
+  depth: 2187
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 13477
+  depth: 7830
+
+The mapping required 0.055336 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sym6_316.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 270
+  depth: 135
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 932
+  depth: 474
+
+The mapping required 0.013521 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q0
+  q1 is initially mapped to Q13
+  q2 is initially mapped to Q9
+  q3 is initially mapped to Q6
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q1
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q5
+  q11 is initially mapped to Q12
+  q12 is initially mapped to Q11
+  q13 is initially mapped to Q10
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sym9_146.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 328
+  depth: 127
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1099
+  depth: 459
+
+The mapping required 0.006556 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q11
+  q8 is initially mapped to Q6
+  q9 is initially mapped to Q15
+  q10 is initially mapped to Q3
+  q11 is initially mapped to Q2
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sym9_148.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 21504
+  depth: 12087
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 76057
+  depth: 43428
+
+The mapping required 1.15115 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q12
+  q1 is initially mapped to Q13
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q2
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q5
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q1
+  q9 is initially mapped to Q15
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sym9_193.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 34881
+  depth: 19235
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 131271
+  depth: 71568
+
+The mapping required 7.56178 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q5
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q6
+  q5 is initially mapped to Q7
+  q6 is initially mapped to Q1
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q0
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: sys6-v0_111.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 215
+  depth: 75
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 788
+  depth: 293
+
+The mapping required 0.014575 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q0
+  q2 is initially mapped to Q14
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q11
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf1_149.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 184864
+  depth: 99585
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 624093
+  depth: 343580
+
+The mapping required 2.33822 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q13
+  q1 is initially mapped to Q14
+  q2 is initially mapped to Q12
+  q3 is initially mapped to Q3
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q4
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q1
+  q8 is initially mapped to Q2
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf1_278.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 54766
+  depth: 30955
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 220513
+  depth: 118193
+
+The mapping required 70.8227 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q2
+  q1 is initially mapped to Q14
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q15
+  q5 is initially mapped to Q4
+  q6 is initially mapped to Q12
+  q7 is initially mapped to Q1
+  q8 is initially mapped to Q0
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf2_152.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 80480
+  depth: 44100
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 272602
+  depth: 153365
+
+The mapping required 0.758167 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q15
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q2
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q0
+  q6 is initially mapped to Q3
+  q7 is initially mapped to Q12
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf2_277.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 20112
+  depth: 11390
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 81266
+  depth: 43813
+
+The mapping required 0.481785 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q5
+  q1 is initially mapped to Q4
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q3
+  q5 is initially mapped to Q2
+  q6 is initially mapped to Q15
+  q7 is initially mapped to Q14
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf3_155.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 423488
+  depth: 229365
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1452222
+  depth: 796971
+
+The mapping required 65.3135 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q4
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q5
+  q7 is initially mapped to Q0
+  q8 is initially mapped to Q13
+  q9 is initially mapped to Q12
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf3_279.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 125362
+  depth: 70702
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 501385
+  depth: 268156
+
+The mapping required 74.9676 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q1
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q14
+  q5 is initially mapped to Q12
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q5
+  q8 is initially mapped to Q13
+  q9 is initially mapped to Q3
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf4_187.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 512064
+  depth: 264330
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 1847780
+  depth: 957204
+
+The mapping required 16.5174 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q7
+  q2 is initially mapped to Q6
+  q3 is initially mapped to Q13
+  q4 is initially mapped to Q5
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q2
+  q7 is initially mapped to Q4
+  q8 is initially mapped to Q15
+  q9 is initially mapped to Q0
+  q10 is initially mapped to Q1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf5_158.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 164416
+  depth: 89145
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 555500
+  depth: 307581
+
+The mapping required 2.24564 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q3
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q5
+  q3 is initially mapped to Q14
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q13
+  q6 is initially mapped to Q4
+  q7 is initially mapped to Q0
+  q8 is initially mapped to Q1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf5_280.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 49829
+  depth: 27822
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 191934
+  depth: 103536
+
+The mapping required 2.30272 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q4
+  q1 is initially mapped to Q1
+  q2 is initially mapped to Q0
+  q3 is initially mapped to Q15
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q14
+  q6 is initially mapped to Q13
+  q7 is initially mapped to Q3
+  q8 is initially mapped to Q5
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: urf6_160.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 171840
+  depth: 93645
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 660792
+  depth: 340909
+
+The mapping required 66.3978 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q15
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q5
+  q4 is initially mapped to Q11
+  q5 is initially mapped to Q9
+  q6 is initially mapped to Q6
+  q7 is initially mapped to Q2
+  q8 is initially mapped to Q10
+  q9 is initially mapped to Q13
+  q10 is initially mapped to Q7
+  q11 is initially mapped to Q4
+  q12 is initially mapped to Q0
+  q13 is initially mapped to Q12
+  q14 is initially mapped to Q1
+  q15 is initially mapped to Q-1
+Circuit name: wim_266.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 986
+  depth: 514
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 3401
+  depth: 1844
+
+The mapping required 0.013084 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q14
+  q1 is initially mapped to Q13
+  q2 is initially mapped to Q11
+  q3 is initially mapped to Q12
+  q4 is initially mapped to Q2
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q0
+  q7 is initially mapped to Q1
+  q8 is initially mapped to Q3
+  q9 is initially mapped to Q4
+  q10 is initially mapped to Q5
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: xor5_254.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 7
+  depth: 5
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 36
+  depth: 21
+
+The mapping required 0.000136 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q2
+  q2 is initially mapped to Q3
+  q3 is initially mapped to Q0
+  q4 is initially mapped to Q4
+  q5 is initially mapped to Q15
+  q6 is initially mapped to Q-1
+  q7 is initially mapped to Q-1
+  q8 is initially mapped to Q-1
+  q9 is initially mapped to Q-1
+  q10 is initially mapped to Q-1
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1
+Circuit name: z4_268.qasm (requires 16 qubits)
+
+Before mapping: 
+  elementary gates: 3073
+  depth: 1644
+
+After mapping (no post mapping optimizations are conducted): 
+  elementary gates: 11302
+  depth: 6149
+
+The mapping required 0.128688 seconds
+
+Initial mapping of the logical qubits (q) to the physical qubits (Q) of the IBM QX3 architecture: 
+  q0 is initially mapped to Q1
+  q1 is initially mapped to Q5
+  q2 is initially mapped to Q12
+  q3 is initially mapped to Q4
+  q4 is initially mapped to Q0
+  q5 is initially mapped to Q3
+  q6 is initially mapped to Q11
+  q7 is initially mapped to Q14
+  q8 is initially mapped to Q13
+  q9 is initially mapped to Q15
+  q10 is initially mapped to Q2
+  q11 is initially mapped to Q-1
+  q12 is initially mapped to Q-1
+  q13 is initially mapped to Q-1
+  q14 is initially mapped to Q-1
+  q15 is initially mapped to Q-1

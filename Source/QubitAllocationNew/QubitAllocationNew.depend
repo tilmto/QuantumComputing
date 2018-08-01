@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1532732110 source:/home/tilmto/CodeBlocks/QubitAllocationNew/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+

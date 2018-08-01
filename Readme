@@ -1,0 +1,13 @@
+Qubit Allocation:
+
+The codes in the directory Source simulate the process of qubit allocation:
+
+QubitAllocationNew is the basic model which takes bridge transformation into consideration. 
+
+QubitAllocationErrorModel builds the error model of ibmqx5.
+
+QAX is the optimization of the bridge model.
+
+The scripts in PythonScript are for extracting sequence from benchmark and analyzing the results.
+
+

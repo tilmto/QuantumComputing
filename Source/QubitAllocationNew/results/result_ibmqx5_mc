@@ -1,0 +1,1106 @@
+seq_alu-bdd_288.qasm:
+Length of the sequence:84
+Total Cost of HardwareA is: 495
+Total Cost of HardwareB is: 420
+Execution Time of B is: 1.6e-05
+costB / costA = 0.848485
+
+seq_mod8-10_178.qasm:
+Length of the sequence:342
+Total Cost of HardwareA is: 2479
+Total Cost of HardwareB is: 1464
+Execution Time of B is: 6.8e-05
+costB / costA = 0.590561
+
+seq_mod5adder_127.qasm:
+Length of the sequence:555
+Total Cost of HardwareA is: 2971
+Total Cost of HardwareB is: 2111
+Execution Time of B is: 0.000114
+costB / costA = 0.710535
+
+seq_sqn_258.qasm:
+Length of the sequence:10223
+Total Cost of HardwareA is: 77415
+Total Cost of HardwareB is: 43077
+Execution Time of B is: 0.001941
+costB / costA = 0.556443
+
+seq_cm42a_207.qasm:
+Length of the sequence:1776
+Total Cost of HardwareA is: 12304
+Total Cost of HardwareB is: 7436
+Execution Time of B is: 0.000324
+costB / costA = 0.604356
+
+seq_dc2_222.qasm:
+Length of the sequence:9462
+Total Cost of HardwareA is: 66923
+Total Cost of HardwareB is: 40287
+Execution Time of B is: 0.001771
+costB / costA = 0.60199
+
+seq_4gt5_75.qasm:
+Length of the sequence:83
+Total Cost of HardwareA is: 534
+Total Cost of HardwareB is: 414
+Execution Time of B is: 1.7e-05
+costB / costA = 0.775281
+
+seq_4gt11_84.qasm:
+Length of the sequence:18
+Total Cost of HardwareA is: 142
+Total Cost of HardwareB is: 122
+Execution Time of B is: 5e-06
+costB / costA = 0.859155
+
+seq_hwb4_49.qasm:
+Length of the sequence:233
+Total Cost of HardwareA is: 1029
+Total Cost of HardwareB is: 835
+Execution Time of B is: 4.7e-05
+costB / costA = 0.811467
+
+seq_dc1_220.qasm:
+Length of the sequence:1914
+Total Cost of HardwareA is: 14015
+Total Cost of HardwareB is: 8271
+Execution Time of B is: 0.000351
+costB / costA = 0.590153
+
+seq_3_17_13.qasm:
+Length of the sequence:36
+Total Cost of HardwareA is: 183
+Total Cost of HardwareB is: 175
+Execution Time of B is: 8e-06
+costB / costA = 0.956284
+
+seq_decod24-v0_38.qasm:
+Length of the sequence:51
+Total Cost of HardwareA is: 360
+Total Cost of HardwareB is: 256
+Execution Time of B is: 1e-05
+costB / costA = 0.711111
+
+seq_ex3_229.qasm:
+Length of the sequence:403
+Total Cost of HardwareA is: 2534
+Total Cost of HardwareB is: 1652
+Execution Time of B is: 7.4e-05
+costB / costA = 0.651934
+
+seq_ising_model_10.qasm:
+Length of the sequence:480
+Total Cost of HardwareA is: 985
+Total Cost of HardwareB is: 1063
+Execution Time of B is: 3.9e-05
+costB / costA = 1.07919
+
+seq_4gt4-v0_79.qasm:
+Length of the sequence:231
+Total Cost of HardwareA is: 1307
+Total Cost of HardwareB is: 847
+Execution Time of B is: 4.5e-05
+costB / costA = 0.648049
+
+seq_alu-v1_29.qasm:
+Length of the sequence:37
+Total Cost of HardwareA is: 204
+Total Cost of HardwareB is: 193
+Execution Time of B is: 8e-06
+costB / costA = 0.946078
+
+seq_4mod5-v0_18.qasm:
+Length of the sequence:69
+Total Cost of HardwareA is: 399
+Total Cost of HardwareB is: 286
+Execution Time of B is: 1.4e-05
+costB / costA = 0.716792
+
+seq_4mod7-v0_94.qasm:
+Length of the sequence:162
+Total Cost of HardwareA is: 849
+Total Cost of HardwareB is: 725
+Execution Time of B is: 3.1e-05
+costB / costA = 0.853946
+
+seq_urf3_279.qasm:
+Length of the sequence:125362
+Total Cost of HardwareA is: 1055406
+Total Cost of HardwareB is: 600206
+Execution Time of B is: 0.024653
+costB / costA = 0.568697
+
+seq_4gt12-v0_87.qasm:
+Length of the sequence:247
+Total Cost of HardwareA is: 1481
+Total Cost of HardwareB is: 1062
+Execution Time of B is: 4.7e-05
+costB / costA = 0.717083
+
+seq_plus63mod8192_164.qasm:
+Length of the sequence:187112
+Total Cost of HardwareA is: 1324216
+Total Cost of HardwareB is: 764127
+Execution Time of B is: 0.034172
+costB / costA = 0.577041
+
+seq_9symml_195.qasm:
+Length of the sequence:34881
+Total Cost of HardwareA is: 256072
+Total Cost of HardwareB is: 137085
+Execution Time of B is: 0.006179
+costB / costA = 0.535338
+
+seq_cm82a_208.qasm:
+Length of the sequence:650
+Total Cost of HardwareA is: 4196
+Total Cost of HardwareB is: 2670
+Execution Time of B is: 0.000115
+costB / costA = 0.63632
+
+seq_wim_266.qasm:
+Length of the sequence:986
+Total Cost of HardwareA is: 6463
+Total Cost of HardwareB is: 4156
+Execution Time of B is: 0.000175
+costB / costA = 0.643045
+
+seq_4gt13-v1_93.qasm:
+Length of the sequence:68
+Total Cost of HardwareA is: 461
+Total Cost of HardwareB is: 266
+Execution Time of B is: 1.2e-05
+costB / costA = 0.577007
+
+seq_mod5mils_65.qasm:
+Length of the sequence:35
+Total Cost of HardwareA is: 208
+Total Cost of HardwareB is: 192
+Execution Time of B is: 8e-06
+costB / costA = 0.923077
+
+seq_plus63mod4096_163.qasm:
+Length of the sequence:128744
+Total Cost of HardwareA is: 889399
+Total Cost of HardwareB is: 521873
+Execution Time of B is: 0.022922
+costB / costA = 0.58677
+
+seq_urf2_152.qasm:
+Length of the sequence:80480
+Total Cost of HardwareA is: 476239
+Total Cost of HardwareB is: 317519
+Execution Time of B is: 0.014187
+costB / costA = 0.666722
+
+seq_con1_216.qasm:
+Length of the sequence:954
+Total Cost of HardwareA is: 6279
+Total Cost of HardwareB is: 3483
+Execution Time of B is: 0.000199
+costB / costA = 0.554706
+
+seq_hwb5_53.qasm:
+Length of the sequence:1336
+Total Cost of HardwareA is: 8445
+Total Cost of HardwareB is: 5145
+Execution Time of B is: 0.000239
+costB / costA = 0.609236
+
+seq_4mod5-v0_20.qasm:
+Length of the sequence:20
+Total Cost of HardwareA is: 142
+Total Cost of HardwareB is: 162
+Execution Time of B is: 5e-06
+costB / costA = 1.14085
+
+seq_alu-v2_30.qasm:
+Length of the sequence:504
+Total Cost of HardwareA is: 3221
+Total Cost of HardwareB is: 2264
+Execution Time of B is: 9.2e-05
+costB / costA = 0.702887
+
+seq_sf_276.qasm:
+Length of the sequence:778
+Total Cost of HardwareA is: 4871
+Total Cost of HardwareB is: 3161
+Execution Time of B is: 0.000139
+costB / costA = 0.648943
+
+seq_qft_16.qasm:
+Length of the sequence:512
+Total Cost of HardwareA is: 3797
+Total Cost of HardwareB is: 3735
+Execution Time of B is: 0.000105
+costB / costA = 0.983671
+
+seq_sym6_145.qasm:
+Length of the sequence:3888
+Total Cost of HardwareA is: 27470
+Total Cost of HardwareB is: 16364
+Execution Time of B is: 0.000693
+costB / costA = 0.595704
+
+seq_sf_274.qasm:
+Length of the sequence:781
+Total Cost of HardwareA is: 4806
+Total Cost of HardwareB is: 3163
+Execution Time of B is: 0.000135
+costB / costA = 0.658136
+
+seq_ising_model_13.qasm:
+Length of the sequence:633
+Total Cost of HardwareA is: 1337
+Total Cost of HardwareB is: 1552
+Execution Time of B is: 5e-05
+costB / costA = 1.16081
+
+seq_mod8-10_177.qasm:
+Length of the sequence:440
+Total Cost of HardwareA is: 3211
+Total Cost of HardwareB is: 1647
+Execution Time of B is: 7.8e-05
+costB / costA = 0.512924
+
+seq_cm152a_212.qasm:
+Length of the sequence:1221
+Total Cost of HardwareA is: 8567
+Total Cost of HardwareB is: 4388
+Execution Time of B is: 0.000212
+costB / costA = 0.512198
+
+seq_rd53_131.qasm:
+Length of the sequence:469
+Total Cost of HardwareA is: 3242
+Total Cost of HardwareB is: 2044
+Execution Time of B is: 8.4e-05
+costB / costA = 0.630475
+
+seq_radd_250.qasm:
+Length of the sequence:3213
+Total Cost of HardwareA is: 23233
+Total Cost of HardwareB is: 13240
+Execution Time of B is: 0.000568
+costB / costA = 0.569879
+
+seq_ham15_107.qasm:
+Length of the sequence:8763
+Total Cost of HardwareA is: 62082
+Total Cost of HardwareB is: 33971
+Execution Time of B is: 0.001555
+costB / costA = 0.547196
+
+seq_urf1_149.qasm:
+Length of the sequence:184864
+Total Cost of HardwareA is: 1155634
+Total Cost of HardwareB is: 697552
+Execution Time of B is: 0.032337
+costB / costA = 0.60361
+
+seq_ex-1_166.qasm:
+Length of the sequence:19
+Total Cost of HardwareA is: 169
+Total Cost of HardwareB is: 113
+Execution Time of B is: 6e-06
+costB / costA = 0.668639
+
+seq_4mod5-v0_19.qasm:
+Length of the sequence:35
+Total Cost of HardwareA is: 204
+Total Cost of HardwareB is: 183
+Execution Time of B is: 7e-06
+costB / costA = 0.897059
+
+seq_aj-e11_165.qasm:
+Length of the sequence:151
+Total Cost of HardwareA is: 627
+Total Cost of HardwareB is: 583
+Execution Time of B is: 2.9e-05
+costB / costA = 0.929825
+
+seq_urf1_278.qasm:
+Length of the sequence:54766
+Total Cost of HardwareA is: 330509
+Total Cost of HardwareB is: 275404
+Execution Time of B is: 0.010917
+costB / costA = 0.833272
+
+seq_rd53_130.qasm:
+Length of the sequence:1043
+Total Cost of HardwareA is: 6196
+Total Cost of HardwareB is: 3899
+Execution Time of B is: 0.00018
+costB / costA = 0.629277
+
+seq_miller_11.qasm:
+Length of the sequence:50
+Total Cost of HardwareA is: 302
+Total Cost of HardwareB is: 227
+Execution Time of B is: 1e-05
+costB / costA = 0.751656
+
+seq_ex1_226.qasm:
+Length of the sequence:7
+Total Cost of HardwareA is: 138
+Total Cost of HardwareB is: 171
+Execution Time of B is: 3e-06
+costB / costA = 1.23913
+
+seq_4gt11_83.qasm:
+Length of the sequence:23
+Total Cost of HardwareA is: 183
+Total Cost of HardwareB is: 141
+Execution Time of B is: 6e-06
+costB / costA = 0.770492
+
+seq_4gt4-v0_73.qasm:
+Length of the sequence:395
+Total Cost of HardwareA is: 2064
+Total Cost of HardwareB is: 1649
+Execution Time of B is: 7.3e-05
+costB / costA = 0.798934
+
+seq_max46_240.qasm:
+Length of the sequence:27126
+Total Cost of HardwareA is: 195838
+Total Cost of HardwareB is: 104539
+Execution Time of B is: 0.004747
+costB / costA = 0.533803
+
+seq_misex1_241.qasm:
+Length of the sequence:4813
+Total Cost of HardwareA is: 33565
+Total Cost of HardwareB is: 19363
+Execution Time of B is: 0.000846
+costB / costA = 0.576881
+
+seq_alu-v2_33.qasm:
+Length of the sequence:37
+Total Cost of HardwareA is: 204
+Total Cost of HardwareB is: 184
+Execution Time of B is: 7e-06
+costB / costA = 0.901961
+
+seq_one-two-three-v0_97.qasm:
+Length of the sequence:290
+Total Cost of HardwareA is: 1847
+Total Cost of HardwareB is: 1044
+Execution Time of B is: 5.1e-05
+costB / costA = 0.565241
+
+seq_decod24-bdd_294.qasm:
+Length of the sequence:73
+Total Cost of HardwareA is: 413
+Total Cost of HardwareB is: 384
+Execution Time of B is: 1.3e-05
+costB / costA = 0.929782
+
+seq_4gt13_90.qasm:
+Length of the sequence:107
+Total Cost of HardwareA is: 712
+Total Cost of HardwareB is: 519
+Execution Time of B is: 2.3e-05
+costB / costA = 0.728933
+
+seq_sym9_148.qasm:
+Length of the sequence:21504
+Total Cost of HardwareA is: 152860
+Total Cost of HardwareB is: 80739
+Execution Time of B is: 0.003751
+costB / costA = 0.528189
+
+seq_alu-v2_32.qasm:
+Length of the sequence:163
+Total Cost of HardwareA is: 1027
+Total Cost of HardwareB is: 773
+Execution Time of B is: 3.1e-05
+costB / costA = 0.752678
+
+seq_alu-v1_28.qasm:
+Length of the sequence:37
+Total Cost of HardwareA is: 190
+Total Cost of HardwareB is: 199
+Execution Time of B is: 8e-06
+costB / costA = 1.04737
+
+seq_cnt3-5_180.qasm:
+Length of the sequence:485
+Total Cost of HardwareA is: 3111
+Total Cost of HardwareB is: 1975
+Execution Time of B is: 8.9e-05
+costB / costA = 0.634844
+
+seq_4gt4-v0_80.qasm:
+Length of the sequence:179
+Total Cost of HardwareA is: 980
+Total Cost of HardwareB is: 850
+Execution Time of B is: 3.4e-05
+costB / costA = 0.867347
+
+seq_ground_state_estimation_10.qasm:
+Length of the sequence:390180
+Total Cost of HardwareA is: 1242963
+Total Cost of HardwareB is: 1337420
+Execution Time of B is: 0.05984
+costB / costA = 1.07599
+
+seq_mini-alu_167.qasm:
+Length of the sequence:288
+Total Cost of HardwareA is: 1792
+Total Cost of HardwareB is: 1109
+Execution Time of B is: 5.3e-05
+costB / costA = 0.618862
+
+seq_4mod5-v1_22.qasm:
+Length of the sequence:21
+Total Cost of HardwareA is: 190
+Total Cost of HardwareB is: 191
+Execution Time of B is: 6e-06
+costB / costA = 1.00526
+
+seq_sys6-v0_111.qasm:
+Length of the sequence:215
+Total Cost of HardwareA is: 1410
+Total Cost of HardwareB is: 1107
+Execution Time of B is: 4.2e-05
+costB / costA = 0.785106
+
+seq_rd53_138.qasm:
+Length of the sequence:132
+Total Cost of HardwareA is: 813
+Total Cost of HardwareB is: 665
+Execution Time of B is: 2.6e-05
+costB / costA = 0.817958
+
+seq_4gt13_92.qasm:
+Length of the sequence:66
+Total Cost of HardwareA is: 440
+Total Cost of HardwareB is: 280
+Execution Time of B is: 1.2e-05
+costB / costA = 0.636364
+
+seq_0410184_169.qasm:
+Length of the sequence:211
+Total Cost of HardwareA is: 1806
+Total Cost of HardwareB is: 1317
+Execution Time of B is: 4.6e-05
+costB / costA = 0.729236
+
+seq_qft_10.qasm:
+Length of the sequence:200
+Total Cost of HardwareA is: 1181
+Total Cost of HardwareB is: 1240
+Execution Time of B is: 3.9e-05
+costB / costA = 1.04996
+
+seq_hwb6_56.qasm:
+Length of the sequence:6723
+Total Cost of HardwareA is: 38433
+Total Cost of HardwareB is: 25173
+Execution Time of B is: 0.001173
+costB / costA = 0.654984
+
+seq_hwb8_113.qasm:
+Length of the sequence:69380
+Total Cost of HardwareA is: 497243
+Total Cost of HardwareB is: 260774
+Execution Time of B is: 0.012028
+costB / costA = 0.52444
+
+seq_4_49_16.qasm:
+Length of the sequence:217
+Total Cost of HardwareA is: 1153
+Total Cost of HardwareB is: 881
+Execution Time of B is: 4e-05
+costB / costA = 0.764094
+
+seq_alu-v0_26.qasm:
+Length of the sequence:84
+Total Cost of HardwareA is: 519
+Total Cost of HardwareB is: 393
+Execution Time of B is: 1.6e-05
+costB / costA = 0.757225
+
+seq_sym10_262.qasm:
+Length of the sequence:64283
+Total Cost of HardwareA is: 453289
+Total Cost of HardwareB is: 258549
+Execution Time of B is: 0.01132
+costB / costA = 0.570384
+
+seq_4gt10-v1_81.qasm:
+Length of the sequence:148
+Total Cost of HardwareA is: 627
+Total Cost of HardwareB is: 501
+Execution Time of B is: 2.7e-05
+costB / costA = 0.799043
+
+seq_rd32_270.qasm:
+Length of the sequence:84
+Total Cost of HardwareA is: 490
+Total Cost of HardwareB is: 383
+Execution Time of B is: 1.6e-05
+costB / costA = 0.781633
+
+seq_urf6_160.qasm:
+Length of the sequence:171840
+Total Cost of HardwareA is: 1099878
+Total Cost of HardwareB is: 679704
+Execution Time of B is: 0.030228
+costB / costA = 0.617981
+
+seq_rd53_311.qasm:
+Length of the sequence:275
+Total Cost of HardwareA is: 1781
+Total Cost of HardwareB is: 1438
+Execution Time of B is: 5.3e-05
+costB / costA = 0.807412
+
+seq_one-two-three-v2_100.qasm:
+Length of the sequence:69
+Total Cost of HardwareA is: 436
+Total Cost of HardwareB is: 317
+Execution Time of B is: 1.3e-05
+costB / costA = 0.727064
+
+seq_hwb9_119.qasm:
+Length of the sequence:207775
+Total Cost of HardwareA is: 1607941
+Total Cost of HardwareB is: 836419
+Execution Time of B is: 0.037053
+costB / costA = 0.52018
+
+seq_rd73_252.qasm:
+Length of the sequence:5321
+Total Cost of HardwareA is: 32223
+Total Cost of HardwareB is: 20472
+Execution Time of B is: 0.000933
+costB / costA = 0.635323
+
+seq_cm85a_209.qasm:
+Length of the sequence:11414
+Total Cost of HardwareA is: 80967
+Total Cost of HardwareB is: 46677
+Execution Time of B is: 0.002013
+costB / costA = 0.576494
+
+seq_urf4_187.qasm:
+Length of the sequence:512064
+Total Cost of HardwareA is: 3712829
+Total Cost of HardwareB is: 1832955
+Execution Time of B is: 0.089613
+costB / costA = 0.493682
+
+seq_one-two-three-v1_99.qasm:
+Length of the sequence:132
+Total Cost of HardwareA is: 821
+Total Cost of HardwareB is: 470
+Execution Time of B is: 2.6e-05
+costB / costA = 0.572473
+
+seq_decod24-v3_45.qasm:
+Length of the sequence:150
+Total Cost of HardwareA is: 931
+Total Cost of HardwareB is: 646
+Execution Time of B is: 2.7e-05
+costB / costA = 0.693878
+
+seq_alu-v4_37.qasm:
+Length of the sequence:37
+Total Cost of HardwareA is: 208
+Total Cost of HardwareB is: 215
+Execution Time of B is: 9e-06
+costB / costA = 1.03365
+
+seq_cycle10_2_110.qasm:
+Length of the sequence:6050
+Total Cost of HardwareA is: 45029
+Total Cost of HardwareB is: 25158
+Execution Time of B is: 0.001078
+costB / costA = 0.558707
+
+seq_4mod5-bdd_287.qasm:
+Length of the sequence:70
+Total Cost of HardwareA is: 507
+Total Cost of HardwareB is: 363
+Execution Time of B is: 1.3e-05
+costB / costA = 0.715976
+
+seq_hwb7_59.qasm:
+Length of the sequence:24379
+Total Cost of HardwareA is: 154654
+Total Cost of HardwareB is: 86448
+Execution Time of B is: 0.004203
+costB / costA = 0.558977
+
+seq_mod10_171.qasm:
+Length of the sequence:244
+Total Cost of HardwareA is: 1425
+Total Cost of HardwareB is: 852
+Execution Time of B is: 4.4e-05
+costB / costA = 0.597895
+
+seq_cnt3-5_179.qasm:
+Length of the sequence:175
+Total Cost of HardwareA is: 1090
+Total Cost of HardwareB is: 1120
+Execution Time of B is: 3.9e-05
+costB / costA = 1.02752
+
+seq_adr4_197.qasm:
+Length of the sequence:3439
+Total Cost of HardwareA is: 23891
+Total Cost of HardwareB is: 14229
+Execution Time of B is: 0.000607
+costB / costA = 0.59558
+
+seq_decod24-enable_126.qasm:
+Length of the sequence:338
+Total Cost of HardwareA is: 2168
+Total Cost of HardwareB is: 1305
+Execution Time of B is: 6.2e-05
+costB / costA = 0.601937
+
+seq_ham7_104.qasm:
+Length of the sequence:320
+Total Cost of HardwareA is: 1772
+Total Cost of HardwareB is: 1253
+Execution Time of B is: 6.1e-05
+costB / costA = 0.707111
+
+seq_ising_model_16.qasm:
+Length of the sequence:786
+Total Cost of HardwareA is: 2105
+Total Cost of HardwareB is: 2433
+Execution Time of B is: 6.5e-05
+costB / costA = 1.15582
+
+seq_4gt4-v0_78.qasm:
+Length of the sequence:235
+Total Cost of HardwareA is: 1369
+Total Cost of HardwareB is: 1048
+Execution Time of B is: 4.7e-05
+costB / costA = 0.765522
+
+seq_4gt13_91.qasm:
+Length of the sequence:103
+Total Cost of HardwareA is: 686
+Total Cost of HardwareB is: 484
+Execution Time of B is: 2.2e-05
+costB / costA = 0.705539
+
+seq_4gt5_76.qasm:
+Length of the sequence:91
+Total Cost of HardwareA is: 535
+Total Cost of HardwareB is: 427
+Execution Time of B is: 5.8e-05
+costB / costA = 0.798131
+
+seq_f2_232.qasm:
+Length of the sequence:1206
+Total Cost of HardwareA is: 7899
+Total Cost of HardwareB is: 4691
+Execution Time of B is: 0.000216
+costB / costA = 0.593873
+
+seq_mlp4_245.qasm:
+Length of the sequence:18852
+Total Cost of HardwareA is: 126162
+Total Cost of HardwareB is: 77461
+Execution Time of B is: 0.003352
+costB / costA = 0.61398
+
+seq_sqrt8_260.qasm:
+Length of the sequence:3009
+Total Cost of HardwareA is: 20907
+Total Cost of HardwareB is: 13250
+Execution Time of B is: 0.00054
+costB / costA = 0.633759
+
+seq_rd84_142.qasm:
+Length of the sequence:343
+Total Cost of HardwareA is: 2038
+Total Cost of HardwareB is: 1820
+Execution Time of B is: 6.5e-05
+costB / costA = 0.893032
+
+seq_4mod5-v1_23.qasm:
+Length of the sequence:69
+Total Cost of HardwareA is: 477
+Total Cost of HardwareB is: 298
+Execution Time of B is: 1.4e-05
+costB / costA = 0.624738
+
+seq_rd32-v0_66.qasm:
+Length of the sequence:34
+Total Cost of HardwareA is: 203
+Total Cost of HardwareB is: 198
+Execution Time of B is: 7e-06
+costB / costA = 0.975369
+
+seq_z4_268.qasm:
+Length of the sequence:3073
+Total Cost of HardwareA is: 20120
+Total Cost of HardwareB is: 12262
+Execution Time of B is: 0.000544
+costB / costA = 0.609443
+
+seq_rd84_253.qasm:
+Length of the sequence:13658
+Total Cost of HardwareA is: 86035
+Total Cost of HardwareB is: 56851
+Execution Time of B is: 0.002417
+costB / costA = 0.660789
+
+seq_majority_239.qasm:
+Length of the sequence:612
+Total Cost of HardwareA is: 3520
+Total Cost of HardwareB is: 2344
+Execution Time of B is: 0.000108
+costB / costA = 0.665909
+
+seq_mod5d2_64.qasm:
+Length of the sequence:53
+Total Cost of HardwareA is: 346
+Total Cost of HardwareB is: 260
+Execution Time of B is: 1.1e-05
+costB / costA = 0.751445
+
+seq_life_238.qasm:
+Length of the sequence:22445
+Total Cost of HardwareA is: 166737
+Total Cost of HardwareB is: 92253
+Execution Time of B is: 0.003993
+costB / costA = 0.553285
+
+seq_sao2_257.qasm:
+Length of the sequence:38577
+Total Cost of HardwareA is: 267122
+Total Cost of HardwareB is: 157186
+Execution Time of B is: 0.006831
+costB / costA = 0.588443
+
+seq_rd53_135.qasm:
+Length of the sequence:296
+Total Cost of HardwareA is: 1822
+Total Cost of HardwareB is: 1316
+Execution Time of B is: 5.6e-05
+costB / costA = 0.722283
+
+seq_alu-v3_34.qasm:
+Length of the sequence:52
+Total Cost of HardwareA is: 414
+Total Cost of HardwareB is: 225
+Execution Time of B is: 1e-05
+costB / costA = 0.543478
+
+seq_C17_204.qasm:
+Length of the sequence:467
+Total Cost of HardwareA is: 2734
+Total Cost of HardwareB is: 1792
+Execution Time of B is: 8.3e-05
+costB / costA = 0.65545
+
+seq_sym9_193.qasm:
+Length of the sequence:34881
+Total Cost of HardwareA is: 256072
+Total Cost of HardwareB is: 137085
+Execution Time of B is: 0.006142
+costB / costA = 0.535338
+
+seq_alu-v3_35.qasm:
+Length of the sequence:37
+Total Cost of HardwareA is: 208
+Total Cost of HardwareB is: 215
+Execution Time of B is: 9e-06
+costB / costA = 1.03365
+
+seq_urf5_280.qasm:
+Length of the sequence:49829
+Total Cost of HardwareA is: 295844
+Total Cost of HardwareB is: 223417
+Execution Time of B is: 0.009603
+costB / costA = 0.755185
+
+seq_4gt11_82.qasm:
+Length of the sequence:27
+Total Cost of HardwareA is: 259
+Total Cost of HardwareB is: 211
+Execution Time of B is: 8e-06
+costB / costA = 0.814672
+
+seq_sym6_316.qasm:
+Length of the sequence:270
+Total Cost of HardwareA is: 1531
+Total Cost of HardwareB is: 1300
+Execution Time of B is: 5.3e-05
+costB / costA = 0.849118
+
+seq_mod10_176.qasm:
+Length of the sequence:178
+Total Cost of HardwareA is: 1022
+Total Cost of HardwareB is: 734
+Execution Time of B is: 3.3e-05
+costB / costA = 0.7182
+
+seq_4mod5-v1_24.qasm:
+Length of the sequence:36
+Total Cost of HardwareA is: 258
+Total Cost of HardwareB is: 183
+Execution Time of B is: 7e-06
+costB / costA = 0.709302
+
+seq_decod24-v2_43.qasm:
+Length of the sequence:52
+Total Cost of HardwareA is: 307
+Total Cost of HardwareB is: 283
+Execution Time of B is: 1e-05
+costB / costA = 0.921824
+
+seq_graycode6_47.qasm:
+Length of the sequence:5
+Total Cost of HardwareA is: 70
+Total Cost of HardwareB is: 75
+Execution Time of B is: 3e-06
+costB / costA = 1.07143
+
+seq_mini_alu_305.qasm:
+Length of the sequence:173
+Total Cost of HardwareA is: 1209
+Total Cost of HardwareB is: 880
+Execution Time of B is: 4e-05
+costB / costA = 0.727874
+
+seq_4gt12-v1_89.qasm:
+Length of the sequence:228
+Total Cost of HardwareA is: 1983
+Total Cost of HardwareB is: 790
+Execution Time of B is: 4e-05
+costB / costA = 0.398386
+
+seq_4gt5_77.qasm:
+Length of the sequence:131
+Total Cost of HardwareA is: 854
+Total Cost of HardwareB is: 552
+Execution Time of B is: 2.5e-05
+costB / costA = 0.64637
+
+seq_ex2_227.qasm:
+Length of the sequence:631
+Total Cost of HardwareA is: 4586
+Total Cost of HardwareB is: 2488
+Execution Time of B is: 0.000112
+costB / costA = 0.542521
+
+seq_urf2_277.qasm:
+Length of the sequence:20112
+Total Cost of HardwareA is: 129748
+Total Cost of HardwareB is: 102952
+Execution Time of B is: 0.004115
+costB / costA = 0.793477
+
+seq_root_255.qasm:
+Length of the sequence:17159
+Total Cost of HardwareA is: 118197
+Total Cost of HardwareB is: 68294
+Execution Time of B is: 0.003005
+costB / costA = 0.577798
+
+seq_squar5_261.qasm:
+Length of the sequence:1993
+Total Cost of HardwareA is: 13128
+Total Cost of HardwareB is: 8762
+Execution Time of B is: 0.000355
+costB / costA = 0.667428
+
+seq_rd73_140.qasm:
+Length of the sequence:230
+Total Cost of HardwareA is: 1297
+Total Cost of HardwareB is: 1213
+Execution Time of B is: 4.6e-05
+costB / costA = 0.935235
+
+seq_one-two-three-v0_98.qasm:
+Length of the sequence:146
+Total Cost of HardwareA is: 794
+Total Cost of HardwareB is: 676
+Execution Time of B is: 2.8e-05
+costB / costA = 0.851385
+
+seq_rd53_251.qasm:
+Length of the sequence:1291
+Total Cost of HardwareA is: 9146
+Total Cost of HardwareB is: 5458
+Execution Time of B is: 0.000227
+costB / costA = 0.596764
+
+seq_4gt12-v0_88.qasm:
+Length of the sequence:194
+Total Cost of HardwareA is: 1164
+Total Cost of HardwareB is: 804
+Execution Time of B is: 3.6e-05
+costB / costA = 0.690722
+
+seq_mod5d1_63.qasm:
+Length of the sequence:22
+Total Cost of HardwareA is: 159
+Total Cost of HardwareB is: 180
+Execution Time of B is: 6e-06
+costB / costA = 1.13208
+
+seq_4gt4-v1_74.qasm:
+Length of the sequence:273
+Total Cost of HardwareA is: 1647
+Total Cost of HardwareB is: 1186
+Execution Time of B is: 4.8e-05
+costB / costA = 0.720097
+
+seq_urf5_158.qasm:
+Length of the sequence:164416
+Total Cost of HardwareA is: 1038073
+Total Cost of HardwareB is: 598482
+Execution Time of B is: 0.028337
+costB / costA = 0.576532
+
+seq_clip_206.qasm:
+Length of the sequence:33827
+Total Cost of HardwareA is: 230542
+Total Cost of HardwareB is: 136386
+Execution Time of B is: 0.005957
+costB / costA = 0.591589
+
+seq_4gt4-v0_72.qasm:
+Length of the sequence:258
+Total Cost of HardwareA is: 1550
+Total Cost of HardwareB is: 971
+Execution Time of B is: 4.6e-05
+costB / costA = 0.626452
+
+seq_pm1_249.qasm:
+Length of the sequence:1776
+Total Cost of HardwareA is: 12304
+Total Cost of HardwareB is: 7436
+Execution Time of B is: 0.000314
+costB / costA = 0.604356
+
+seq_4mod7-v1_96.qasm:
+Length of the sequence:164
+Total Cost of HardwareA is: 1054
+Total Cost of HardwareB is: 641
+Execution Time of B is: 2.9e-05
+costB / costA = 0.608159
+
+seq_decod24-v1_41.qasm:
+Length of the sequence:85
+Total Cost of HardwareA is: 419
+Total Cost of HardwareB is: 340
+Execution Time of B is: 1.6e-05
+costB / costA = 0.811456
+
+seq_alu-v4_36.qasm:
+Length of the sequence:115
+Total Cost of HardwareA is: 687
+Total Cost of HardwareB is: 454
+Execution Time of B is: 2.2e-05
+costB / costA = 0.660844
+
+seq_square_root_7.qasm:
+Length of the sequence:7630
+Total Cost of HardwareA is: 36902
+Total Cost of HardwareB is: 35060
+Execution Time of B is: 0.001289
+costB / costA = 0.950084
+
+seq_rd53_133.qasm:
+Length of the sequence:580
+Total Cost of HardwareA is: 4206
+Total Cost of HardwareB is: 2073
+Execution Time of B is: 0.000103
+costB / costA = 0.492867
+
+seq_alu-v0_27.qasm:
+Length of the sequence:36
+Total Cost of HardwareA is: 203
+Total Cost of HardwareB is: 192
+Execution Time of B is: 7e-06
+costB / costA = 0.945813
+
+seq_4gt12-v0_86.qasm:
+Length of the sequence:251
+Total Cost of HardwareA is: 1439
+Total Cost of HardwareB is: 1096
+Execution Time of B is: 4.9e-05
+costB / costA = 0.76164
+
+seq_rd32-v1_68.qasm:
+Length of the sequence:36
+Total Cost of HardwareA is: 205
+Total Cost of HardwareB is: 200
+Execution Time of B is: 7e-06
+costB / costA = 0.97561
+
+seq_sym9_146.qasm:
+Length of the sequence:328
+Total Cost of HardwareA is: 1723
+Total Cost of HardwareB is: 1555
+Execution Time of B is: 6.3e-05
+costB / costA = 0.902496
+
+seq_alu-v2_31.qasm:
+Length of the sequence:451
+Total Cost of HardwareA is: 2671
+Total Cost of HardwareB is: 1486
+Execution Time of B is: 7.7e-05
+costB / costA = 0.556346
+
+seq_dist_223.qasm:
+Length of the sequence:38046
+Total Cost of HardwareA is: 243722
+Total Cost of HardwareB is: 150367
+Execution Time of B is: 0.006679
+costB / costA = 0.616961
+
+seq_ham3_102.qasm:
+Length of the sequence:20
+Total Cost of HardwareA is: 133
+Total Cost of HardwareB is: 162
+Execution Time of B is: 6e-06
+costB / costA = 1.21805
+
+seq_co14_215.qasm:
+Length of the sequence:17936
+Total Cost of HardwareA is: 128812
+Total Cost of HardwareB is: 74866
+Execution Time of B is: 0.003174
+costB / costA = 0.581204
+
+seq_urf3_155.qasm:
+Length of the sequence:423488
+Total Cost of HardwareA is: 2342389
+Total Cost of HardwareB is: 1625746
+Execution Time of B is: 0.075359
+costB / costA = 0.694055
+
+seq_inc_237.qasm:
+Length of the sequence:10619
+Total Cost of HardwareA is: 76028
+Total Cost of HardwareB is: 40731
+Execution Time of B is: 0.001872
+costB / costA = 0.535737
+
+seq_xor5_254.qasm:
+Length of the sequence:7
+Total Cost of HardwareA is: 138
+Total Cost of HardwareB is: 171
+Execution Time of B is: 4e-06
+costB / costA = 1.23913
+
+seq_one-two-three-v3_101.qasm:
+Length of the sequence:70
+Total Cost of HardwareA is: 408
+Total Cost of HardwareB is: 295
+Execution Time of B is: 1.3e-05
+costB / costA = 0.723039
+

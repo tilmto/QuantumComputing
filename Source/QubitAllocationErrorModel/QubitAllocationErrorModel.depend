@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1532973422 source:/home/tilmto/CodeBlocks/QubitAllocationErrorModel/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+

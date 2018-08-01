@@ -1,0 +1,790 @@
+seq_alu-bdd_288.qasm:
+The total cost of HardwareA is: 1275
+The total cost of HardwareB is: 1246.5
+costB / costA = 0.977647
+
+seq_mod8-10_178.qasm:
+The total cost of HardwareA is: 5854.4
+The total cost of HardwareB is: 5692.4
+costB / costA = 0.972328
+
+seq_mod5adder_127.qasm:
+The total cost of HardwareA is: 8122.8
+The total cost of HardwareB is: 7822.1
+costB / costA = 0.96298
+
+seq_sqn_258.qasm:
+The total cost of HardwareA is: 172249
+The total cost of HardwareB is: 166663
+costB / costA = 0.967568
+
+seq_cm42a_207.qasm:
+The total cost of HardwareA is: 28465.7
+The total cost of HardwareB is: 27720.6
+costB / costA = 0.973824
+
+seq_dc2_222.qasm:
+The total cost of HardwareA is: 149439
+The total cost of HardwareB is: 145883
+costB / costA = 0.976207
+
+seq_4gt5_75.qasm:
+The total cost of HardwareA is: 1192.6
+The total cost of HardwareB is: 1147.5
+costB / costA = 0.962183
+
+seq_4gt11_84.qasm:
+The total cost of HardwareA is: 303.9
+The total cost of HardwareB is: 292.8
+costB / costA = 0.963475
+
+seq_hwb4_49.qasm:
+The total cost of HardwareA is: 3462.2
+The total cost of HardwareB is: 3400.9
+costB / costA = 0.982295
+
+seq_dc1_220.qasm:
+The total cost of HardwareA is: 30989.7
+The total cost of HardwareB is: 30263.7
+costB / costA = 0.976573
+
+seq_3_17_13.qasm:
+The total cost of HardwareA is: 507.8
+The total cost of HardwareB is: 497.5
+costB / costA = 0.979716
+
+seq_decod24-v0_38.qasm:
+The total cost of HardwareA is: 784.6
+The total cost of HardwareB is: 755
+costB / costA = 0.962274
+
+seq_ex3_229.qasm:
+The total cost of HardwareA is: 6230.4
+The total cost of HardwareB is: 6084
+costB / costA = 0.976502
+
+seq_ising_model_10.qasm:
+The total cost of HardwareA is: 7147.21
+The total cost of HardwareB is: 6961.9
+costB / costA = 0.974072
+
+seq_4gt4-v0_79.qasm:
+The total cost of HardwareA is: 3172.2
+The total cost of HardwareB is: 3082.1
+costB / costA = 0.971597
+
+seq_alu-v1_29.qasm:
+The total cost of HardwareA is: 513.7
+The total cost of HardwareB is: 511.2
+costB / costA = 0.995133
+
+seq_4mod5-v0_18.qasm:
+The total cost of HardwareA is: 1038.5
+The total cost of HardwareB is: 995.1
+costB / costA = 0.958209
+
+seq_4mod7-v0_94.qasm:
+The total cost of HardwareA is: 2235.4
+The total cost of HardwareB is: 2166.2
+costB / costA = 0.969043
+
+seq_urf3_279.qasm:
+The total cost of HardwareA is: 2.06616e+06
+The total cost of HardwareB is: 2.01695e+06
+costB / costA = 0.976183
+
+seq_4gt12-v0_87.qasm:
+The total cost of HardwareA is: 3466.3
+The total cost of HardwareB is: 3363.8
+costB / costA = 0.970429
+
+seq_plus63mod8192_164.qasm:
+The total cost of HardwareA is: 2.99635e+06
+The total cost of HardwareB is: 2.91788e+06
+costB / costA = 0.973811
+
+seq_9symml_195.qasm:
+The total cost of HardwareA is: 559649
+The total cost of HardwareB is: 548604
+costB / costA = 0.980263
+
+seq_cm82a_208.qasm:
+The total cost of HardwareA is: 10174.4
+The total cost of HardwareB is: 9840.21
+costB / costA = 0.967153
+
+seq_wim_266.qasm:
+The total cost of HardwareA is: 15654.3
+The total cost of HardwareB is: 15310.5
+costB / costA = 0.978038
+
+seq_4gt13-v1_93.qasm:
+The total cost of HardwareA is: 1062.2
+The total cost of HardwareB is: 1033.7
+costB / costA = 0.973169
+
+seq_mod5mils_65.qasm:
+The total cost of HardwareA is: 513.2
+The total cost of HardwareB is: 511
+costB / costA = 0.995713
+
+seq_plus63mod4096_163.qasm:
+The total cost of HardwareA is: 2.01982e+06
+The total cost of HardwareB is: 1.97277e+06
+costB / costA = 0.976705
+
+seq_urf2_152.qasm:
+The total cost of HardwareA is: 1.20267e+06
+The total cost of HardwareB is: 1.17279e+06
+costB / costA = 0.975152
+
+seq_con1_216.qasm:
+The total cost of HardwareA is: 15383.7
+The total cost of HardwareB is: 14859.9
+costB / costA = 0.96595
+
+seq_hwb5_53.qasm:
+The total cost of HardwareA is: 20047.5
+The total cost of HardwareB is: 19414.8
+costB / costA = 0.968439
+
+seq_4mod5-v0_20.qasm:
+The total cost of HardwareA is: 325.4
+The total cost of HardwareB is: 325.4
+costB / costA = 1
+
+seq_alu-v2_30.qasm:
+The total cost of HardwareA is: 7447.6
+The total cost of HardwareB is: 7205.9
+costB / costA = 0.967547
+
+seq_sf_276.qasm:
+The total cost of HardwareA is: 12739.7
+The total cost of HardwareB is: 12399.8
+costB / costA = 0.97332
+
+seq_qft_16.qasm:
+The total cost of HardwareA is: 8188.81
+The total cost of HardwareB is: 8188.8
+costB / costA = 1
+
+seq_sym6_145.qasm:
+The total cost of HardwareA is: 61004.5
+The total cost of HardwareB is: 59421.2
+costB / costA = 0.974045
+
+seq_sf_274.qasm:
+The total cost of HardwareA is: 12202.4
+The total cost of HardwareB is: 11735.8
+costB / costA = 0.961761
+
+seq_ising_model_13.qasm:
+The total cost of HardwareA is: 9227.22
+The total cost of HardwareB is: 9013
+costB / costA = 0.976785
+
+seq_mod8-10_177.qasm:
+The total cost of HardwareA is: 7048.2
+The total cost of HardwareB is: 6927.5
+costB / costA = 0.982875
+
+seq_cm152a_212.qasm:
+The total cost of HardwareA is: 19697
+The total cost of HardwareB is: 19056.6
+costB / costA = 0.967487
+
+seq_rd53_131.qasm:
+The total cost of HardwareA is: 7622.6
+The total cost of HardwareB is: 7400.1
+costB / costA = 0.97081
+
+seq_radd_250.qasm:
+The total cost of HardwareA is: 52507.2
+The total cost of HardwareB is: 50964.3
+costB / costA = 0.970616
+
+seq_ham15_107.qasm:
+The total cost of HardwareA is: 142289
+The total cost of HardwareB is: 138153
+costB / costA = 0.970931
+
+seq_urf1_149.qasm:
+The total cost of HardwareA is: 2.73495e+06
+The total cost of HardwareB is: 2.68541e+06
+costB / costA = 0.981886
+
+seq_ex-1_166.qasm:
+The total cost of HardwareA is: 370.9
+The total cost of HardwareB is: 356.8
+costB / costA = 0.961985
+
+seq_4mod5-v0_19.qasm:
+The total cost of HardwareA is: 501.9
+The total cost of HardwareB is: 487.8
+costB / costA = 0.971907
+
+seq_aj-e11_165.qasm:
+The total cost of HardwareA is: 2065
+The total cost of HardwareB is: 2023.2
+costB / costA = 0.979758
+
+seq_urf1_278.qasm:
+The total cost of HardwareA is: 790495
+The total cost of HardwareB is: 768878
+costB / costA = 0.972655
+
+seq_rd53_130.qasm:
+The total cost of HardwareA is: 15760.7
+The total cost of HardwareB is: 15275.3
+costB / costA = 0.969203
+
+seq_miller_11.qasm:
+The total cost of HardwareA is: 833.5
+The total cost of HardwareB is: 819.4
+costB / costA = 0.983083
+
+seq_ex1_226.qasm:
+The total cost of HardwareA is: 164.2
+The total cost of HardwareB is: 164.2
+costB / costA = 1
+
+seq_4gt11_83.qasm:
+The total cost of HardwareA is: 317.1
+The total cost of HardwareB is: 315.6
+costB / costA = 0.99527
+
+seq_4gt4-v0_73.qasm:
+The total cost of HardwareA is: 5556.1
+The total cost of HardwareB is: 5415.6
+costB / costA = 0.974713
+
+seq_max46_240.qasm:
+The total cost of HardwareA is: 431498
+The total cost of HardwareB is: 420257
+costB / costA = 0.973948
+
+seq_misex1_241.qasm:
+The total cost of HardwareA is: 76503.4
+The total cost of HardwareB is: 74460.6
+costB / costA = 0.973298
+
+seq_alu-v2_33.qasm:
+The total cost of HardwareA is: 576.4
+The total cost of HardwareB is: 572.2
+costB / costA = 0.992713
+
+seq_one-two-three-v0_97.qasm:
+The total cost of HardwareA is: 4447.5
+The total cost of HardwareB is: 4360.1
+costB / costA = 0.980349
+
+seq_decod24-bdd_294.qasm:
+The total cost of HardwareA is: 1047.2
+The total cost of HardwareB is: 1037.2
+costB / costA = 0.990451
+
+seq_4gt13_90.qasm:
+The total cost of HardwareA is: 1670.9
+The total cost of HardwareB is: 1644.1
+costB / costA = 0.983961
+
+seq_sym9_148.qasm:
+The total cost of HardwareA is: 350668
+The total cost of HardwareB is: 339696
+costB / costA = 0.96871
+
+seq_alu-v2_32.qasm:
+The total cost of HardwareA is: 2365.6
+The total cost of HardwareB is: 2286.5
+costB / costA = 0.966562
+
+seq_alu-v1_28.qasm:
+The total cost of HardwareA is: 488.6
+The total cost of HardwareB is: 481.4
+costB / costA = 0.985264
+
+seq_cnt3-5_180.qasm:
+The total cost of HardwareA is: 7420.1
+The total cost of HardwareB is: 7270.9
+costB / costA = 0.979892
+
+seq_4gt4-v0_80.qasm:
+The total cost of HardwareA is: 2722.2
+The total cost of HardwareB is: 2659.9
+costB / costA = 0.977114
+
+seq_ground_state_estimation_10.qasm:
+The total cost of HardwareA is: 4.94524e+06
+The total cost of HardwareB is: 4.93386e+06
+costB / costA = 0.9977
+
+seq_mini-alu_167.qasm:
+The total cost of HardwareA is: 4405.8
+The total cost of HardwareB is: 4213.1
+costB / costA = 0.956262
+
+seq_4mod5-v1_22.qasm:
+The total cost of HardwareA is: 380.1
+The total cost of HardwareB is: 353.7
+costB / costA = 0.930545
+
+seq_sys6-v0_111.qasm:
+The total cost of HardwareA is: 3286.6
+The total cost of HardwareB is: 3178.6
+costB / costA = 0.967139
+
+seq_rd53_138.qasm:
+The total cost of HardwareA is: 1957.2
+The total cost of HardwareB is: 1914.9
+costB / costA = 0.978387
+
+seq_4gt13_92.qasm:
+The total cost of HardwareA is: 1076.6
+The total cost of HardwareB is: 1029.1
+costB / costA = 0.95588
+
+seq_0410184_169.qasm:
+The total cost of HardwareA is: 3515.9
+The total cost of HardwareB is: 3440.5
+costB / costA = 0.978555
+
+seq_qft_10.qasm:
+The total cost of HardwareA is: 3222.8
+The total cost of HardwareB is: 3222.8
+costB / costA = 1
+
+seq_hwb6_56.qasm:
+The total cost of HardwareA is: 102616
+The total cost of HardwareB is: 98541.1
+costB / costA = 0.960293
+
+seq_hwb8_113.qasm:
+The total cost of HardwareA is: 1.13935e+06
+The total cost of HardwareB is: 1.10558e+06
+costB / costA = 0.970365
+
+seq_4_49_16.qasm:
+The total cost of HardwareA is: 3197.4
+The total cost of HardwareB is: 3143.3
+costB / costA = 0.98308
+
+seq_alu-v0_26.qasm:
+The total cost of HardwareA is: 1258.7
+The total cost of HardwareB is: 1222.7
+costB / costA = 0.971399
+
+seq_sym10_262.qasm:
+The total cost of HardwareA is: 1.02276e+06
+The total cost of HardwareB is: 995416
+costB / costA = 0.973265
+
+seq_4gt10-v1_81.qasm:
+The total cost of HardwareA is: 2135.1
+The total cost of HardwareB is: 2104.9
+costB / costA = 0.985855
+
+seq_rd32_270.qasm:
+The total cost of HardwareA is: 1291.7
+The total cost of HardwareB is: 1231.2
+costB / costA = 0.953163
+
+seq_urf6_160.qasm:
+The total cost of HardwareA is: 2.63773e+06
+The total cost of HardwareB is: 2.58691e+06
+costB / costA = 0.980734
+
+seq_rd53_311.qasm:
+The total cost of HardwareA is: 4230.5
+The total cost of HardwareB is: 4156.6
+costB / costA = 0.982532
+
+seq_one-two-three-v2_100.qasm:
+The total cost of HardwareA is: 985
+The total cost of HardwareB is: 978.6
+costB / costA = 0.993502
+
+seq_hwb9_119.qasm:
+The total cost of HardwareA is: 3.45784e+06
+The total cost of HardwareB is: 3.36617e+06
+costB / costA = 0.973489
+
+seq_rd73_252.qasm:
+The total cost of HardwareA is: 81678.3
+The total cost of HardwareB is: 79412.4
+costB / costA = 0.972259
+
+seq_cm85a_209.qasm:
+The total cost of HardwareA is: 180999
+The total cost of HardwareB is: 176762
+costB / costA = 0.976589
+
+seq_urf4_187.qasm:
+The total cost of HardwareA is: 8.33867e+06
+The total cost of HardwareB is: 8.12478e+06
+costB / costA = 0.974349
+
+seq_one-two-three-v1_99.qasm:
+The total cost of HardwareA is: 2049.2
+The total cost of HardwareB is: 1988.3
+costB / costA = 0.970281
+
+seq_decod24-v3_45.qasm:
+The total cost of HardwareA is: 2297.8
+The total cost of HardwareB is: 2235.1
+costB / costA = 0.972713
+
+seq_alu-v4_37.qasm:
+The total cost of HardwareA is: 505.6
+The total cost of HardwareB is: 503.1
+costB / costA = 0.995055
+
+seq_cycle10_2_110.qasm:
+The total cost of HardwareA is: 96467.5
+The total cost of HardwareB is: 94409
+costB / costA = 0.978661
+
+seq_4mod5-bdd_287.qasm:
+The total cost of HardwareA is: 1148.4
+The total cost of HardwareB is: 1132.2
+costB / costA = 0.985893
+
+seq_hwb7_59.qasm:
+The total cost of HardwareA is: 381522
+The total cost of HardwareB is: 373611
+costB / costA = 0.979264
+
+seq_mod10_171.qasm:
+The total cost of HardwareA is: 3624.4
+The total cost of HardwareB is: 3474.8
+costB / costA = 0.958724
+
+seq_cnt3-5_179.qasm:
+The total cost of HardwareA is: 2524.6
+The total cost of HardwareB is: 2483.7
+costB / costA = 0.983799
+
+seq_adr4_197.qasm:
+The total cost of HardwareA is: 53053
+The total cost of HardwareB is: 52129.7
+costB / costA = 0.982596
+
+seq_decod24-enable_126.qasm:
+The total cost of HardwareA is: 5118.7
+The total cost of HardwareB is: 4977.4
+costB / costA = 0.972395
+
+seq_ham7_104.qasm:
+The total cost of HardwareA is: 4517.8
+The total cost of HardwareB is: 4420.5
+costB / costA = 0.978463
+
+seq_ising_model_16.qasm:
+The total cost of HardwareA is: 11632.3
+The total cost of HardwareB is: 11131.5
+costB / costA = 0.956946
+
+seq_4gt4-v0_78.qasm:
+The total cost of HardwareA is: 3387
+The total cost of HardwareB is: 3317.9
+costB / costA = 0.979598
+
+seq_4gt13_91.qasm:
+The total cost of HardwareA is: 1644.9
+The total cost of HardwareB is: 1625
+costB / costA = 0.987902
+
+seq_4gt5_76.qasm:
+The total cost of HardwareA is: 1357.8
+The total cost of HardwareB is: 1334.7
+costB / costA = 0.982987
+
+seq_f2_232.qasm:
+The total cost of HardwareA is: 19851.7
+The total cost of HardwareB is: 19157.3
+costB / costA = 0.96502
+
+seq_mlp4_245.qasm:
+The total cost of HardwareA is: 296801
+The total cost of HardwareB is: 288979
+costB / costA = 0.973645
+
+seq_sqrt8_260.qasm:
+The total cost of HardwareA is: 47248.4
+The total cost of HardwareB is: 46256.1
+costB / costA = 0.978998
+
+seq_rd84_142.qasm:
+The total cost of HardwareA is: 4686.5
+The total cost of HardwareB is: 4628.4
+costB / costA = 0.987603
+
+seq_4mod5-v1_23.qasm:
+The total cost of HardwareA is: 1089
+The total cost of HardwareB is: 1018.4
+costB / costA = 0.93517
+
+seq_rd32-v0_66.qasm:
+The total cost of HardwareA is: 503.9
+The total cost of HardwareB is: 494.5
+costB / costA = 0.981346
+
+seq_z4_268.qasm:
+The total cost of HardwareA is: 51151.5
+The total cost of HardwareB is: 49753.1
+costB / costA = 0.972661
+
+seq_rd84_253.qasm:
+The total cost of HardwareA is: 208059
+The total cost of HardwareB is: 203311
+costB / costA = 0.977179
+
+seq_majority_239.qasm:
+The total cost of HardwareA is: 8589.81
+The total cost of HardwareB is: 8535.4
+costB / costA = 0.993666
+
+seq_mod5d2_64.qasm:
+The total cost of HardwareA is: 834.3
+The total cost of HardwareB is: 817.4
+costB / costA = 0.979743
+
+seq_life_238.qasm:
+The total cost of HardwareA is: 361400
+The total cost of HardwareB is: 354442
+costB / costA = 0.980749
+
+seq_sao2_257.qasm:
+The total cost of HardwareA is: 615312
+The total cost of HardwareB is: 598181
+costB / costA = 0.972159
+
+seq_rd53_135.qasm:
+The total cost of HardwareA is: 4397.4
+The total cost of HardwareB is: 4237.5
+costB / costA = 0.963638
+
+seq_alu-v3_34.qasm:
+The total cost of HardwareA is: 912
+The total cost of HardwareB is: 882.4
+costB / costA = 0.967544
+
+seq_C17_204.qasm:
+The total cost of HardwareA is: 7077.5
+The total cost of HardwareB is: 6871.9
+costB / costA = 0.97095
+
+seq_sym9_193.qasm:
+The total cost of HardwareA is: 559649
+The total cost of HardwareB is: 548604
+costB / costA = 0.980263
+
+seq_alu-v3_35.qasm:
+The total cost of HardwareA is: 505.6
+The total cost of HardwareB is: 503.1
+costB / costA = 0.995055
+
+seq_urf5_280.qasm:
+The total cost of HardwareA is: 721244
+The total cost of HardwareB is: 698907
+costB / costA = 0.969029
+
+seq_4gt11_82.qasm:
+The total cost of HardwareA is: 419.7
+The total cost of HardwareB is: 410
+costB / costA = 0.976888
+
+seq_sym6_316.qasm:
+The total cost of HardwareA is: 4348.7
+The total cost of HardwareB is: 4240.7
+costB / costA = 0.975165
+
+seq_mod10_176.qasm:
+The total cost of HardwareA is: 2496
+The total cost of HardwareB is: 2459.5
+costB / costA = 0.985377
+
+seq_4mod5-v1_24.qasm:
+The total cost of HardwareA is: 572.5
+The total cost of HardwareB is: 556.2
+costB / costA = 0.971528
+
+seq_decod24-v2_43.qasm:
+The total cost of HardwareA is: 775.3
+The total cost of HardwareB is: 746.8
+costB / costA = 0.96324
+
+seq_graycode6_47.qasm:
+The total cost of HardwareA is: 70
+The total cost of HardwareB is: 70
+costB / costA = 1
+
+seq_mini_alu_305.qasm:
+The total cost of HardwareA is: 2842.3
+The total cost of HardwareB is: 2766.4
+costB / costA = 0.973296
+
+seq_4gt12-v1_89.qasm:
+The total cost of HardwareA is: 3868
+The total cost of HardwareB is: 3748.7
+costB / costA = 0.969157
+
+seq_4gt5_77.qasm:
+The total cost of HardwareA is: 2119
+The total cost of HardwareB is: 2035.7
+costB / costA = 0.960689
+
+seq_ex2_227.qasm:
+The total cost of HardwareA is: 10472.7
+The total cost of HardwareB is: 10113.5
+costB / costA = 0.965701
+
+seq_urf2_277.qasm:
+The total cost of HardwareA is: 289374
+The total cost of HardwareB is: 281567
+costB / costA = 0.973022
+
+seq_root_255.qasm:
+The total cost of HardwareA is: 274285
+The total cost of HardwareB is: 266921
+costB / costA = 0.973149
+
+seq_squar5_261.qasm:
+The total cost of HardwareA is: 30627.1
+The total cost of HardwareB is: 29923
+costB / costA = 0.977011
+
+seq_rd73_140.qasm:
+The total cost of HardwareA is: 3447.8
+The total cost of HardwareB is: 3371.4
+costB / costA = 0.977841
+
+seq_one-two-three-v0_98.qasm:
+The total cost of HardwareA is: 2329.7
+The total cost of HardwareB is: 2244.2
+costB / costA = 0.9633
+
+seq_rd53_251.qasm:
+The total cost of HardwareA is: 20792.3
+The total cost of HardwareB is: 20104.8
+costB / costA = 0.966935
+
+seq_4gt12-v0_88.qasm:
+The total cost of HardwareA is: 2832.4
+The total cost of HardwareB is: 2780.4
+costB / costA = 0.981641
+
+seq_mod5d1_63.qasm:
+The total cost of HardwareA is: 338.4
+The total cost of HardwareB is: 330.4
+costB / costA = 0.976359
+
+seq_4gt4-v1_74.qasm:
+The total cost of HardwareA is: 3905.8
+The total cost of HardwareB is: 3833.4
+costB / costA = 0.981464
+
+seq_urf5_158.qasm:
+The total cost of HardwareA is: 2.43735e+06
+The total cost of HardwareB is: 2.39227e+06
+costB / costA = 0.981501
+
+seq_clip_206.qasm:
+The total cost of HardwareA is: 534216
+The total cost of HardwareB is: 519807
+costB / costA = 0.973027
+
+seq_4gt4-v0_72.qasm:
+The total cost of HardwareA is: 3710.7
+The total cost of HardwareB is: 3689.5
+costB / costA = 0.994287
+
+seq_pm1_249.qasm:
+The total cost of HardwareA is: 28465.7
+The total cost of HardwareB is: 27720.6
+costB / costA = 0.973824
+
+seq_4mod7-v1_96.qasm:
+The total cost of HardwareA is: 2509.1
+The total cost of HardwareB is: 2450.5
+costB / costA = 0.976645
+
+seq_decod24-v1_41.qasm:
+The total cost of HardwareA is: 1252.1
+The total cost of HardwareB is: 1221.4
+costB / costA = 0.975481
+
+seq_alu-v4_36.qasm:
+The total cost of HardwareA is: 1795.5
+The total cost of HardwareB is: 1761.8
+costB / costA = 0.98123
+
+seq_square_root_7.qasm:
+The total cost of HardwareA is: 107869
+The total cost of HardwareB is: 102984
+costB / costA = 0.954719
+
+seq_rd53_133.qasm:
+The total cost of HardwareA is: 9014.6
+The total cost of HardwareB is: 8732.8
+costB / costA = 0.968739
+
+seq_alu-v0_27.qasm:
+The total cost of HardwareA is: 499.3
+The total cost of HardwareB is: 496.8
+costB / costA = 0.994993
+
+seq_4gt12-v0_86.qasm:
+The total cost of HardwareA is: 3578.8
+The total cost of HardwareB is: 3505.5
+costB / costA = 0.979518
+
+seq_rd32-v1_68.qasm:
+The total cost of HardwareA is: 536.6
+The total cost of HardwareB is: 527.2
+costB / costA = 0.982482
+
+seq_sym9_146.qasm:
+The total cost of HardwareA is: 4685.4
+The total cost of HardwareB is: 4626.9
+costB / costA = 0.987514
+
+seq_alu-v2_31.qasm:
+The total cost of HardwareA is: 6683.59
+The total cost of HardwareB is: 6551.2
+costB / costA = 0.980191
+
+seq_dist_223.qasm:
+The total cost of HardwareA is: 593692
+The total cost of HardwareB is: 577228
+costB / costA = 0.97227
+
+seq_ham3_102.qasm:
+The total cost of HardwareA is: 294.3
+The total cost of HardwareB is: 284.3
+costB / costA = 0.966021
+
+seq_co14_215.qasm:
+The total cost of HardwareA is: 286961
+The total cost of HardwareB is: 280350
+costB / costA = 0.976963
+
+seq_urf3_155.qasm:
+The total cost of HardwareA is: 6.25658e+06
+The total cost of HardwareB is: 6.10599e+06
+costB / costA = 0.97593
+
+seq_inc_237.qasm:
+The total cost of HardwareA is: 171203
+The total cost of HardwareB is: 166583
+costB / costA = 0.973016
+
+seq_xor5_254.qasm:
+The total cost of HardwareA is: 164.2
+The total cost of HardwareB is: 164.2
+costB / costA = 1
+
+seq_one-two-three-v3_101.qasm:
+The total cost of HardwareA is: 987.6
+The total cost of HardwareB is: 958
+costB / costA = 0.970028
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1533063278 source:/home/tilmto/CodeBlocks/QAX/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<ctime>
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
