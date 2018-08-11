@@ -8,6 +8,8 @@ QubitAllocationErrorModel builds the error model of ibmqx5.
 
 QAX is the optimization of the bridge model.
 
+Architecture is the comparison between different hardware architectures.  
+
 The scripts in PythonScript are for extracting sequence from benchmark and analyzing the results.
 
 
